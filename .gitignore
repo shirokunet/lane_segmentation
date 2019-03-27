@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+data/
+data_ret/
+model/
+tboard/
