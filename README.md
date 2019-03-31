@@ -3,6 +3,7 @@
 - Top right: LaneNet
 - Bottom left: LaneNet Transfer Learned TuSimple Dataset filtered gamma correction 0.4
 - Bottom right: LaneNet Transfer Learned BDD100K Dataset selected highway scenes
+
 [![daytime](https://github.com/shirokunet/LaneSegmentation/raw/master/images/01-04_freeway_01-06.gif)](https://www.youtube.com/watch?v=Mnk2ogrKWTM)
 
 ([Link](https://www.youtube.com/watch?v=Mnk2ogrKWTM&))
