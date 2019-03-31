@@ -11,10 +11,10 @@ Nighttime Demo
 
 ([Link](https://www.youtube.com/watch?v=0n_phl6V9ho&))
 
-- Top left: Rule based
-- Top right: LaneNet
-- Bottom left: LaneNet Transfer Learned TuSimple Dataset filtered gamma correction 0.4
-- Bottom right: LaneNet Transfer Learned BDD100K Dataset selected highway scenes
+- Top left: [Rule based](https://github.com/shirokunet/LaneSegmentation/blob/master/01_Rule-based_lane-detection.ipynb)
+- Top right: [LaneNet](https://github.com/shirokunet/LaneSegmentation/blob/master/02_LaneNet_lane-detection.ipynb)
+- Bottom left: [LaneNet Transfer Learned TuSimple Dataset filtered gamma correction 0.4](https://github.com/shirokunet/LaneSegmentation/blob/master/03-04_Tuned_LaneNet_lane-detection.ipynb)
+- Bottom right: [LaneNet Transfer Learned BDD100K Dataset selected highway scenes](https://github.com/shirokunet/LaneSegmentation/blob/master/04-09_Tuned_LaneNet_lane-detection.ipynb)
 
 # Reference
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
