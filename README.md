@@ -1,8 +1,6 @@
 # Preview
-![daytime](https://github.com/shirokunet/LaneSegmentation/raw/master/images/01-04_freeway_01-06.gif)
-![nighttime](https://github.com/shirokunet/LaneSegmentation/raw/master/images/01-04_night_91-96.gif)
-[Daytime](https://www.youtube.com/watch?v=Mnk2ogrKWTM)
-[Nighttime](https://www.youtube.com/watch?v=0n_phl6V9ho)
+[![daytime](https://github.com/shirokunet/LaneSegmentation/raw/master/images/01-04_freeway_01-06.gif)](https://www.youtube.com/watch?v=Mnk2ogrKWTM)
+[![nighttime](https://github.com/shirokunet/LaneSegmentation/raw/master/images/01-04_night_91-96.gif)](https://www.youtube.com/watch?v=0n_phl6V9ho)
 
 - Top left: Rule based
 - Top right: LaneNet
